@@ -16,3 +16,5 @@ Welcome to my Touist Recommender System! The Hybrid Recommender System for Touri
 # Getting started:
 
   **1. Clone the repository:**
+
+     git clone https://github.com/Priya-2703/Touist_Recommender_System.git
