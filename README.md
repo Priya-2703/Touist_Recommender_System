@@ -12,3 +12,7 @@ Welcome to my Touist Recommender System! The Hybrid Recommender System for Touri
 * **Search Destinations:** Enter your preferences or choose from recommended locations.
 * **Get Recommendations:** Receive a list of suggested destinations tailored to your profile.
 * **Provide Feedback:** Rate and review the recommendations to help improve future suggestions
+
+# Getting started:
+
+  **1. Clone the repository:**
